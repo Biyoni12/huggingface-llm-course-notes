@@ -37,4 +37,4 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for de
 
 ---
 
-© 2025 Biyoni12
+© 2025 Biyoni Pietersz
