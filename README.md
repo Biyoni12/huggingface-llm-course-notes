@@ -1,4 +1,4 @@
-# Hugging Face LLM Course Notes 📚🚀
+# Hugging Face LLM Course Notes 📚
 
 Welcome to a beginner-friendly, well-structured set of notes for the [Hugging Face LLM Course](https://huggingface.co/learn/llm-course)! 🎉 These notes guide you from zero to advanced in Natural Language Processing (NLP) and Large Language Models (LLMs) using the Hugging Face ecosystem. Perfect for newcomers and enthusiasts alike! 💡
 
